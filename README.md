@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit rai</h1>
 <h3 align="center">A passionate Backend & Full-Stack Developer from Nepal 🇳🇵</h3>
 
-- 🔭 I’m currently working on **Wearware – e-commerce site, blending creativity and style 👕 Projects – building web apps, dashboards, and tools to support real-world projects**
+- 🔭 I’m currently working on **Wearware – e-commerce site, blending creativity and style 👕**
 
 - 🌱 I’m currently learning **MERN Stack (React, Node.js, Express, MongoDB) Backend architecture & APIs System design basics**
 
