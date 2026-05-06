@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Amit Rai</h1>
-<h3 align="center">Full-Stack Developer from Nepal 🇳🇵</h3>
+<h3 align="center">Backend & Full-Stack Developer from Nepal 🇳🇵</h3>
 
 ---
 
 ### 🚀 About Me
 
-* 🌱 Currently learning **MERN Stack, Next.js, System Design**
-* 💡 Building **end-to-end web applications (frontend + backend + APIs)**
-* 🎯 Strong focus on **backend architecture**, while actively improving frontend skills
+* 🌱 Currently learning **MERN Stack, Backend Architecture, System Design**
+* 💡 Focused on building **scalable APIs and real-world web applications**
 * 👯 Open to collaborate on:
 
-  * Full-stack web applications
-  * Backend-heavy systems
-  * Real-world problem-solving products
+  * Backend-heavy projects
+  * MERN stack applications
+  * Problem-solving products that create impact
 * 💬 Ask me about:
 
-  * Node.js, Express, APIs, MongoDB, React
+  * Node.js, Express, APIs, MongoDB
   * Debugging tricky issues 😅
 * ⚡ Fun fact:
   *When my code misbehaves, I either fix it… or switch to graphic design 🎨*
@@ -33,63 +32,67 @@
 * 💻 Internship as a **Full-Stack Developer**
 * 🛠 Worked on:
 
-  * Frontend + Backend integration
-  * API development & consumption
-  * Debugging real production issues
-  * Delivering features under deadlines
+  * Real-world modules
+  * Debugging production issues
+  * Meeting actual deadlines
 
 ---
 
 ### 🧠 Tech Stack
 
-#### 🚀 Full-Stack
+#### 🚀 Core
 
 * **Frontend:** React.js, Next.js, Tailwind CSS
 * **Backend:** Node.js, Express.js
 * **State Management:** Redux, Redux Toolkit (RTK)
 * **Database:** MongoDB, MySQL
 
-#### 🛠 Languages & Tools
+### 🛠 Languages & Tools
 
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-</p>
+#### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+
+---
+
+#### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+#### 🛠 Tools
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akaameet&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akaameet&theme=tokyonight" height="180"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 ### 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/amit-rai-54167532a/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/amit.raii_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
 ---
 
 ### 📊 Goals
 
-* 🌐 Become a strong **Full-Stack Engineer**
-* ⚙️ Master **Backend Architecture & System Design**
-* 🎨 Improve **UI/UX & frontend performance**
-* 🚀 Build impactful, production-ready applications
+* 📈 Grow as a **Backend Engineer**
+* ⚙️ Master **System Design & Scalable Architectures**
+* 🚀 Contribute to impactful real-world products
 
 ---
 
-⭐ *Building complete products, not just features.*
+⭐ *Always learning. Always building.*
