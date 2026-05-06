@@ -77,19 +77,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-
-### 📫 Connect With Me
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
-
 ---
 
 ### 📊 Goals
 
-* 📈 Grow as a **Backend Engineer**
+* 📈 Grow as a **Full Stack Developer**
 * ⚙️ Master **System Design & Scalable Architectures**
 * 🚀 Contribute to impactful real-world products
 
