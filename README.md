@@ -1,36 +1,36 @@
-<h1 align="center">Hi 👋, I'm Amit Rai</h1>
+<h1 align="center"> Amit Rai</h1>
 <h3 align="center">Backend & Full-Stack Developer from Nepal 🇳🇵</h3>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-* 🌱 Currently learning **MERN Stack, Backend Architecture, System Design**
-* 💡 Focused on building **scalable APIs and real-world web applications**
-* 👯 Open to collaborate on:
+* Currently learning **MERN Stack, Backend Architecture, System Design**
+*  Focused on building **scalable APIs and real-world web applications**
+*  Open to collaborate on:
 
   * Backend-heavy projects
   * MERN stack applications
   * Problem-solving products that create impact
-* 💬 Ask me about:
+* Ask me about:
 
   * Node.js, Express, APIs, MongoDB
-  * Debugging tricky issues 😅
-* ⚡ Fun fact:
+  * Debugging tricky issues 
+*  Fun fact:
   *When my code misbehaves, I either fix it… or switch to graphic design 🎨*
 
 ---
 
-### 🌐 Portfolio
+###  Portfolio
 
 🔗 https://amitrai020.com.np/
 
 ---
 
-### 💼 Experience
+### Experience
 
-* 💻 Internship as a **Full-Stack Developer**
-* 🛠 Worked on:
+* Internship as a **Full-Stack Developer**
+* Worked on:
 
   * Real-world modules
   * Debugging production issues
@@ -38,18 +38,18 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
-#### 🚀 Core
+#### Core
 
 * **Frontend:** React.js, Next.js, Tailwind CSS
 * **Backend:** Node.js, Express.js
 * **State Management:** Redux, Redux Toolkit (RTK)
 * **Database:** MongoDB, MySQL
 
-### 🛠 Languages & Tools
+### Languages & Tools
 
-#### 🎨 Frontend
+#### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-#### ⚙️ Backend
+#### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
@@ -70,7 +70,7 @@
 
 ---
 
-#### 🛠 Tools
+#### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -79,12 +79,12 @@
 
 ---
 
-### 📊 Goals
+### Goals
 
-* 📈 Grow as a **Full Stack Developer**
-* ⚙️ Master **System Design & Scalable Architectures**
-* 🚀 Contribute to impactful real-world products
+* Grow as a **Full Stack Developer**
+* Master **System Design & Scalable Architectures**
+* Contribute to impactful real-world products
 
 ---
 
-⭐ *Always learning. Always building.*
+ *Always learning. Always building.*
